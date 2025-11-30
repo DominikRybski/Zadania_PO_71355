@@ -1,0 +1,15 @@
+/Users/dominik/Documents/Studia/Zadania_PO_25Z_71355/LAB3/Zadanie2/bin/Debug/net9.0/Zadanie2
+/Users/dominik/Documents/Studia/Zadania_PO_25Z_71355/LAB3/Zadanie2/bin/Debug/net9.0/Zadanie2.deps.json
+/Users/dominik/Documents/Studia/Zadania_PO_25Z_71355/LAB3/Zadanie2/bin/Debug/net9.0/Zadanie2.runtimeconfig.json
+/Users/dominik/Documents/Studia/Zadania_PO_25Z_71355/LAB3/Zadanie2/bin/Debug/net9.0/Zadanie2.dll
+/Users/dominik/Documents/Studia/Zadania_PO_25Z_71355/LAB3/Zadanie2/bin/Debug/net9.0/Zadanie2.pdb
+/Users/dominik/Documents/Studia/Zadania_PO_25Z_71355/LAB3/Zadanie2/obj/Debug/net9.0/Zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominik/Documents/Studia/Zadania_PO_25Z_71355/LAB3/Zadanie2/obj/Debug/net9.0/Zadanie2.AssemblyInfoInputs.cache
+/Users/dominik/Documents/Studia/Zadania_PO_25Z_71355/LAB3/Zadanie2/obj/Debug/net9.0/Zadanie2.AssemblyInfo.cs
+/Users/dominik/Documents/Studia/Zadania_PO_25Z_71355/LAB3/Zadanie2/obj/Debug/net9.0/Zadanie2.csproj.CoreCompileInputs.cache
+/Users/dominik/Documents/Studia/Zadania_PO_25Z_71355/LAB3/Zadanie2/obj/Debug/net9.0/Zadanie2.sourcelink.json
+/Users/dominik/Documents/Studia/Zadania_PO_25Z_71355/LAB3/Zadanie2/obj/Debug/net9.0/Zadanie2.dll
+/Users/dominik/Documents/Studia/Zadania_PO_25Z_71355/LAB3/Zadanie2/obj/Debug/net9.0/refint/Zadanie2.dll
+/Users/dominik/Documents/Studia/Zadania_PO_25Z_71355/LAB3/Zadanie2/obj/Debug/net9.0/Zadanie2.pdb
+/Users/dominik/Documents/Studia/Zadania_PO_25Z_71355/LAB3/Zadanie2/obj/Debug/net9.0/Zadanie2.genruntimeconfig.cache
+/Users/dominik/Documents/Studia/Zadania_PO_25Z_71355/LAB3/Zadanie2/obj/Debug/net9.0/ref/Zadanie2.dll

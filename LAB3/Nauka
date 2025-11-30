@@ -1,0 +1,78 @@
+class Animal
+{
+    public virtual void MakeSound()
+    {
+        Console.WriteLine("Some generic animal sound");
+    }
+};
+
+class Dog : Animal
+{
+    public override void MakeSound() => Console.WriteLine("Bark");
+};
+class Cat : Animal
+{
+    public override void MakeSound() => Console.WriteLine("Meow");
+};
+class Lion : Animal
+{
+    public override void MakeSound() => Console.WriteLine("Roar");
+};
+class Bird : Animal
+{
+    public override void MakeSound() => Console.WriteLine("Chirp");
+};
+
+// class Program
+// {
+//     static void Main(string[] args)
+//     {
+//         Animal[] animals = new Animal[4];
+//         animals[0] = new Dog();
+//         animals[1] = new Cat();
+//         animals[2] = new Lion();
+//         animals[3] = new Bird();
+
+//         foreach (var animal in animals)
+//         {
+//             animal.MakeSound();
+//         }
+//     }
+// }
+
+
+
+abstract class Shape
+{
+    public abstract double Area();
+}
+
+class Circle : Shape
+{
+    public double Radius {get; set;}
+
+    public Circle(double radius)
+    {
+        this.Radius = radius;
+    }
+
+    public override double Area()
+    {
+        return Math.PI * Radius * Radius;
+    }
+}
+
+
+
+interface IMoveable
+{
+    void Move();
+}
+
+class Car : IMoveable
+{
+    public void Move()
+    {
+        Console.WriteLine("The car is driving.");
+    }
+}
